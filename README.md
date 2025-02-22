@@ -1,0 +1,2 @@
+# basic
+trying out git
