@@ -1,3 +1,3 @@
 hey this is my new repo
 <br>
-Atuthor -Vasanth
+Atuthor -P Vasanth
